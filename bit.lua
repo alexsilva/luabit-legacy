@@ -24,7 +24,6 @@
 -- Under the MIT license.
 -- copyright(c) 2006~2007 hanzhao (abrash_han@hotmail.com)
 -----------------
-
 do
     ------------------------
     -- bit lib implementions
